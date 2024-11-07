@@ -34,21 +34,20 @@
 				<h2>Bài viết hiện tại</h2>
 				<div class="post">
 					<img src="file:///C|/xamppp/htdocs/thuong/1.jpg" alt="bài viết 1" width="100">
-					<p>thành viên quan dú</p>
+					<p>hinh anh 1</p>
 			  </div>
 				<div class="post">
 					<img src="file:///C|/xamppp/htdocs/thuong/nhachot2.jpg" alt="bài viết 2" width="100">
-					<p>thành viên takada</p>
+					<p>hinh anh 2</p>
 			  </div>
 				<div class="post">
 					<img src="file:///C|/xamppp/htdocs/thuong/nhachot 1.jpg" alt="bài viết 3" width="100">
-					<p>thành vien trưu bát nhất</p>
+					<p>hinh anh 3</p>
 				</div>
 			</div>
 			<div class="col2">
 				<img src="file:///C|/xamppp/htdocs/thuong/nhachot3.jpg" alt="hình ảnh bài viêt " width="299">
-				<p>Hội fan cầu thủ bóng đá</p>
+				<p>hinh anh 4</p>
 			</div>
 </div>
-</body>
-</html>
+		
